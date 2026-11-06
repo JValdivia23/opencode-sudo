@@ -53,10 +53,11 @@ autorizar o comando sem colar a senha na conversa.
 
 ## Instalação
 
-Clone o repositório em qualquer diretório:
+Clone o repositório em qualquer diretório (troque `<seu-usuario>` pelo dono
+do repositório):
 
 ```sh
-git clone <url-do-repo> ~/projetos/opencode-sudo
+git clone https://github.com/<seu-usuario>/opencode-sudo.git ~/projetos/opencode-sudo
 ```
 
 Adicione o plugin ao `~/.config/opencode/opencode.jsonc` global. Ajuste o
